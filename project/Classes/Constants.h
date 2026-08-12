@@ -57,7 +57,7 @@ namespace PulseCatch
         1.0f
     );
 
-    inline const cocos2d::Color4F CORAL_RED(
+    const cocos2d::Color4F CORAL_RED(
         1.0f,
         0.30f,
         0.28f,
